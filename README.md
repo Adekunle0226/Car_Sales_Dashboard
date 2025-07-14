@@ -21,4 +21,18 @@ from
 new_car_datasets
 group by color;
 ```
+Retrieve the total number per body type
+``` SQL
+select body_style,
+count(*) as total_number_per_body
+from new_car_datasets
+group by body_style;
+```
+Retrieve total number per transmission type
+``` SQL
+select transmission, count(*)
+from new_car_datasets
+group by transmission;
+```
+
 ### Power Bi Visualization

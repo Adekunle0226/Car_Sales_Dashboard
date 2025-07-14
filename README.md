@@ -14,4 +14,11 @@ The objective of this report is to explore the dataset, derive meaningful insigh
 + SQL for data manipulation
 + Power Bi for visualization
 ### Sql Queries
+How many Category of color
+``` SQL
+select color, count(distinct color) as number_of_color_category
+from
+new_car_datasets
+group by color;
+```
 ### Power Bi Visualization

@@ -9,5 +9,9 @@ The objective of this report is to explore the dataset, derive meaningful insigh
 + Dealer performance
 + Monthly trends
 ### Tools Used
++ Excel for data cleaning
++ Pivot table
++ SQL for data manipulation
++ Power Bi for visualization
 ### Sql Queries
 ### Power Bi Visualization

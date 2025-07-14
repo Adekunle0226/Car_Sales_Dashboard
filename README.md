@@ -14,6 +14,10 @@ The objective of this report is to explore the dataset, derive meaningful insigh
 + SQL for data manipulation
 + Power Bi for visualization
 ### Sql Queries
+To update date format
+``` SQL
+set Dates = date_format(str_to_date(Dates, '%m/%d/%Y'), '%Y-%m-%d');
+```
 How many Category of color
 ``` SQL
 select color, count(distinct color) as number_of_color_category

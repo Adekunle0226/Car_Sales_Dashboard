@@ -34,5 +34,27 @@ select transmission, count(*)
 from new_car_datasets
 group by transmission;
 ```
-
+Retrieve total sales amount for the year 2022
+``` SQL
+select sum(Price) as 2022_total_sale
+from new_car_datasets
+where year(Date) = 2022;
+```
+Retrieve sale for 2022 and 2023
+``` SQL
+select sum(Price)
+from new_car_datasets
+where year(Date) in (2022, 2023);
+```
+Retrieve average selling price
+``` SQL
+select avg(Price)
+from new_car_datasets;
+```
+Retrieve average selling price for 2022 and 2023
+``` SQL
+select avg(Price)
+from new_car_datasets
+where year(Date) in (2022, 2023);
+```
 ### Power Bi Visualization

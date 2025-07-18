@@ -66,6 +66,10 @@ where year(Date) in (2022, 2023);
 + Top Selling Color: Pale White
 + Top Selling Model: Diamante
 + Top Selling Engine: Double AA Overhead Camshaft
++ Total number of dealers: 28
++ Total number of cars : 24k
++ Total number of customers: 3,022
++ Top sales by gender : Male with $527M (78.49%)
 
 ### Insight
 #### Top 5 customers

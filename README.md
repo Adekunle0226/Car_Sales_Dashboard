@@ -74,6 +74,10 @@ where year(Date) in (2022, 2023);
 + Hugo – $1.92M
 + Louis – $1.83M
 + Paul – $1.67M
+
+#### Monthly income trends
++ Steady increase through out the year with a significant rise from October to December
++ Seasonal effect on end of the year increase.
   
 ### Power Bi Visualization
 ![power bi dashboard 1](https://github.com/user-attachments/assets/6465e3f7-b39e-46d6-8357-b74446380d50)

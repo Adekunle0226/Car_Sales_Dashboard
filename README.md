@@ -84,7 +84,7 @@ where year(Date) in (2022, 2023);
 + Seasonal effect on end of the year increase.
 
 ### Recommendations
-++ For product development
+> For product development
 ### Visualization
 #### Power Bi Visuals
 ![power bi dashboard 1](https://github.com/user-attachments/assets/6465e3f7-b39e-46d6-8357-b74446380d50)

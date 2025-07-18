@@ -79,7 +79,8 @@ where year(Date) in (2022, 2023);
 + Steady increase through out the year with a significant rise from October to December
 + Seasonal effect on end of the year increase.
   
-### Power Bi Visualization
+### Visualization
+#### Power Bi Visuals
 ![power bi dashboard 1](https://github.com/user-attachments/assets/6465e3f7-b39e-46d6-8357-b74446380d50)
 <img width="1114" height="605" alt="poweer bi dash boad 2" src="https://github.com/user-attachments/assets/fec38aed-98bf-4bfe-babd-4cb0ef54fd1f" />
 
